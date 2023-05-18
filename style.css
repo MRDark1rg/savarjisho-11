@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(196, 194, 194);;
+}
+
+.conteiner{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: 
+    
+
+}
+
+
+.user{
+    display: flex;
+    flex-direction: column;
+}
+p{
+    font-size: 30px;
+    font-weight:bold;
+    color: rgb(9, 54, 94);
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+
+.p{
+    color: rgb(9, 54, 94);
+}
+.text{
+    margin-left: 350px;
+}
+.big{
+    margin-top: 20px;
+}
+.siy{
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.gogoebi{
+    /* display: flex;
+    flex-direction: column; */
+    /* align-items: center; */
+    margin-top: 30px;
+    
+}
+.xalxi{
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+
+}
+.xalxi :nth-child(2){
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sub{
+    margin-left: 640px;
+    margin-top: 10px;
+}
